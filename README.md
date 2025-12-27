@@ -34,13 +34,14 @@ Set appropriate parameters in `parameter.py` and run `driver.py` to train the mo
 If you find our work useful, please consider citing our paper:
 
 ```bibtex
-@article{chiun2025marvel,
-  title={MARVEL: Multi-Agent Reinforcement Learning for constrained field-of-View multi-robot Exploration in Large-scale environments},
+@INPROCEEDINGS{chiun2025marvel,
   author={Chiun, Jimmy and Zhang, Shizhe and Wang, Yizhuo and Cao, Yuhong and Sartoretti, Guillaume},
-  journal={arXiv preprint arXiv:2502.20217},
-  year={2025}
-}
-
+  booktitle={2025 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  title={MARVEL: Multi-Agent Reinforcement Learning for Constrained Field-of-View Multi-Robot Exploration in Large-Scale Environments}, 
+  year={2025},
+  pages={11392-11398},
+  keywords={Training;Three-dimensional displays;Robot kinematics;Robot vision systems;Reinforcement learning;Reliability engineering;Sensors;Planning;Complexity theory;Drones},
+  doi={10.1109/ICRA55743.2025.11127700}}
 ```
 
 Authors:

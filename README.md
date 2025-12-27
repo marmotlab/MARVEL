@@ -45,7 +45,7 @@ If you find our work useful, please consider citing our paper:
 ```
 
 Authors:
-[Jimmy Chiun](https://www.linkedin.com/in/jimmychiun/),
+[Jimmy Chiun](https://jimmychiun.me),
 Shizhe Zhang,
 [Yizhuo Wang](https://www.yizhuo-wang.com/),
 [Yuhong Cao](https://www.yuhongcao.online/),

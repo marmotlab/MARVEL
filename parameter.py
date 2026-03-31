@@ -18,8 +18,8 @@ Key configurations include:
 - GPU and logging options
 """
 
-FOLDER_NAME = 'test_2'
-LOAD_FOLDER_NAME = 'joint_action_5_9_GT_MAAC'
+FOLDER_NAME = 'marvel'
+LOAD_FOLDER_NAME = 'marvel'
 model_path = f'model/{FOLDER_NAME}'
 load_path = f'load_model/{LOAD_FOLDER_NAME}'
 train_path = f'train/{FOLDER_NAME}'
@@ -27,7 +27,7 @@ gifs_path = f'gifs/{FOLDER_NAME}'
 
 # save training data
 SUMMARY_WINDOW = 32
-LOAD_MODEL = True  # do you want to load the model trained before
+LOAD_MODEL = True  # Set to true to use trained model in load_model folder
 SAVE_IMG_GAP = 1000
 NUM_EPISODE_BUFFER = 40
 

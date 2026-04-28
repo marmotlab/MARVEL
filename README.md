@@ -50,3 +50,6 @@ Shizhe Zhang,
 [Yizhuo Wang](https://www.yizhuo-wang.com/),
 [Yuhong Cao](https://www.yuhongcao.online/),
 [Guillaume Sartoretti](https://cde.nus.edu.sg/me/staff/sartoretti-guillaume-a/)
+
+License:
+MIT
